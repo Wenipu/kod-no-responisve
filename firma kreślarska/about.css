@@ -1,0 +1,409 @@
+body{
+    margin-left: auto;
+    margin-right: auto;
+}
+.mainphoto{
+    
+    width: 100%;
+    height: 877px;
+   
+    margin-top: 10px;;
+  
+}
+.icon-home{
+    width: 60px;
+    height: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    float: left;
+    margin-top:10px;
+}
+.offcanvas-body{
+    background-color: #414141;
+    color: white;
+    font-size: 25px;
+    text-align: center;
+    padding-top: 60px;
+}
+
+.offcanvas{
+ background-color: #414141;
+}
+a.nav-link{
+    color:white;
+    padding-top:40px;
+    transition: transform 0,5s ease-in-out;
+}
+a.nav-link:hover{
+    color:rgb(153, 153, 153);
+    font-size: 120%;
+    transform: scale(1.1);
+}
+button.btn-close{  
+    padding-left: 140px;; 
+}
+.navbar-brand{
+    color:black;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+.navbar-brand:hover{
+    color:#414141;
+}
+h1{
+    font-size: 28px;
+    float: left;
+    margin-top: 25px;
+    margin-right: 6px;
+}
+.icon-menu:hover{
+    transform: scale(1.3);
+}
+
+.icon-menu{
+    height: 30px;
+    width: 40px;
+    transition: transform 1s ease-in-out
+}
+
+.phone{
+   margin-top:25px;
+   width: 35px;;
+}
+.number{
+    font-size: 18px;;
+    margin-top: 25px;
+    font-weight: 400;
+}
+.navbar{
+    background-color:white;
+}
+.about-page{
+    position:relative
+}
+.rectangle-white-about{
+    position: absolute;
+    width: 854px;
+    height: 189px;
+    left: 550px;
+    top: 400px;
+    background-color: white;
+}
+.h2about-white{
+   margin-top:40px;
+    font-family: 'Courier Prime'monospace;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 90px;
+    line-height: 101px;
+    text-align: center;
+    color: #414141;
+}
+
+.aboutus{
+    width:100%;
+    
+    margin-top:150px;
+}
+.aboutus-leftphoto{
+    float: left;
+    width: 50%;
+    height: 410px;
+    text-align:right;
+    padding-right: 20px;
+}
+.photo1-about{
+    width: 600px;
+    height: 410px;
+}
+.aboutus-righttext{
+    float: left;
+    width: 50%;
+    height:410px;
+}
+.text-first-about{
+    font-family: 'Raleway'sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 25px;
+line-height: 35px;
+text-align: justify;
+padding-left:50px;
+color: #000000;
+padding-right: 270px;;
+    padding-top: 80px;
+}
+.text-second-about{
+    font-family: 'Raleway'sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 25px;
+line-height: 35px;
+text-align: justify;
+margin-left:330px;
+color: #000000;
+margin-right:270px;
+margin-top: 70px;;
+}
+.text-third-about{
+    font-family: 'Raleway'sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 25px;
+line-height: 35px;
+text-align: justify;
+margin-left:330px;
+color: #000000;
+margin-right:270px;
+}
+.text{
+    clear: both;
+    width: 100%;
+    height:300px;
+    
+}
+.aboutus-lefttext{
+    float: left;
+    width: 50%;
+    height:400px;
+    margin-top:250px;
+}
+.aboutus-rightphoto{
+    float: left;
+    width: 50%;
+    height:410px;
+    margin-top:250px;
+    text-align:left;
+    padding-left: 50px;
+}
+.text-fourth-about{
+    font-family: 'Raleway'sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 25px;
+line-height: 35px;
+text-align: justify;
+padding-right:20px;
+color: #000000;
+padding-left: 330px;;
+    padding-top: 45px;
+}
+.photo2-about{
+    width: 600px;
+    height: 410px;
+}
+
+
+.texts{
+    width: 100%;
+    height: 150px;
+    
+}
+.firsttext{
+    width: 33.3%;
+    height: 100px;
+    
+    float: left;
+    margin-top:150px;
+    
+}
+.firsttext-opinion{
+    text-align: center;
+    font-family: 'Raleway'sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 25px;
+line-height: 29px;
+text-align: center;
+letter-spacing: 0.1em;
+
+color: #000000;
+}
+.secondtext{
+    width: 33.3%;
+    height: 100px;
+    
+    float: left;
+    margin-top:150px;
+}
+.secondtext-opinion{
+    text-align: center;
+    font-family: 'Raleway'sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 25px;
+line-height: 29px;
+text-align: center;
+letter-spacing: 0.1em;
+
+color: #000000;
+}
+.thirdtext{
+    width: 33.3%;
+    height: 100px;
+    float: left;
+    margin-top:150px;
+}
+.thirdtext-opinion{
+    text-align: center;
+    font-family: 'Raleway'sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 25px;
+line-height: 29px;
+text-align: center;
+letter-spacing: 0.1em;
+
+color: #000000;
+}
+.check1{
+    width: 70px;
+    height: 70px;
+}
+.check2{
+    width: 70px;
+    height: 70px;
+}
+.check3{
+    width: 70px;
+    height: 70px;
+}
+
+.rectangle-foot{
+    width: 100%;
+    height:448px;
+    background-color: #414141;
+    margin-top: 230px;
+}
+.rectangle-foot-img{
+    width: 100%;
+    height:448px;
+}
+.img-foot{
+    width: 100%;
+    height:448px;
+    opacity: 0.2;
+    
+}
+.left-rectangle-foot{
+    float: left;
+    width: 700px;
+    height: 448px;
+    background: rgba(65, 65, 68, 0.8);
+    
+    
+}
+.text-left-rectangle{
+    color: white;
+    text-align: center;
+    margin-top: 150px;
+    font-size: 75px;
+}
+
+.middle-rectangle-foot{
+    float: left;
+    width: 750px;
+    height: 448px;
+    
+    
+}
+.left-middle-right-rectangle{
+    width: 100%;
+    height: 448px;
+    position: absolute;
+    bottom:0px;
+
+}
+
+.location-icon-foot{
+    width: 90px;
+    height: 80px;
+    margin-left: 350px;
+    margin-top: 60px;
+    
+    
+   
+}
+.text-location-foot{
+    font-family: 'Raleway'sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 29px;
+    padding-left: 15px;
+    color: #ffffff;
+    margin-top: 60px;
+    
+}
+.icon-location-foot{
+    float: left;
+   
+}
+.address-foot{
+    float:left;
+    
+}
+.icon-phone-foot{
+    float:left;
+}
+
+.number-foot{
+    float:left;
+}
+.phone-call-icon-foot{
+    width: 65px;
+    height: 65px;
+    margin-left: 365px;
+    margin-top: 30px;
+    
+}
+.text-number-foot{
+    font-family: 'Raleway'sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 29px;
+    padding-left: 15px;
+    color: #ffffff;
+    margin-top: 35px;
+    
+}
+.icon-mail-foot{
+    float:left;
+}
+.email-icon-foot{
+    width: 65px;
+    height: 65px;
+    margin-left: 365px;
+    margin-top: 30px;
+   
+}
+
+.text-mail-foot{
+    font-family: 'Raleway'sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 29px;
+    padding-left: 15px;
+    color: #ffffff;
+    margin-top: 45px;
+    
+}
+.address-email-foot{
+    float:left;
+}
+
+.right-rectangle-foot{
+    float: left;
+    height: 448px;
+}
+.icon-foot{
+    margin-left: 150px;
+    margin-top: 380px;
+}
+.instagram-foot{
+    margin-left:25px;
+}
+
